@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Brian Balili (eautify)!
 
-Welcome to my GitHub! I’m a passionate **Computer Engineering student** with experience in full-stack web development and embedded systems. I love solving problems, building useful tools, and collaborating with others to bring ideas to life.
+Welcome to my GitHub! I’m a passionate **Computer Engineering graduate** with experience in full-stack web development and embedded systems. I love solving problems, building useful tools, and collaborating with others to bring ideas to life.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 **Currently Studying:** BS in Computer Engineering @ Rizal Technological University
+* 🎓 **Education:** BS in Computer Engineering @ Rizal Technological University
 * 🧠 **Focus:** Full-stack development with **Python** & **Vue.js**, and **Arduino programming**
 * 💬 **Workflow:** Agile (Scrum), Git, Clean Code
 * 🕹️ **Side Interests:** Gaming, anime, and photo/video editing
