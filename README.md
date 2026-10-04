@@ -53,8 +53,8 @@ Welcome to my GitHub! I’m a passionate **Computer Engineering student** with e
 ## 🌐 Let’s Connect!
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat\&logo=facebook\&logoColor=white)](https://www.facebook.com/irakkss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/brianbalili0603/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat\&logo=vercel\&logoColor=white)](https://brian-portfolio-ashy.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/brian-balili/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat\&logo=vercel\&logoColor=white)](https://portfolio-bryn.vercel.app/)
 
 ---
 
